@@ -7,6 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## ANKA BUSINESS SERVICES SYSTEM
+Anka is a robust business services system built on the Laravel framework, designed to streamline operations and enhance efficiency for businesses of all sizes. With intuitive features for client management, project tracking, invoicing, and more, Anka empowers businesses to manage their operations seamlessly. Built with scalability and customization in mind, Anka offers a flexible solution tailored to meet the unique needs of your business. Get started with Anka today and elevate your business to new heights."
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
